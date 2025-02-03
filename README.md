@@ -14,4 +14,4 @@ It should have a bunch of ansible scripts and a couple of guides so I don't forg
 
 ## Guides
 
-* [Installing Proxmox and pfSense on Topton](guides/InstallingProxmoxTopton.md)
+* [Installing Proxmox and pfSense on Topton](guides/InstallingProxmoxTopton)

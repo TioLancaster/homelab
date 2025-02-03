@@ -1,0 +1,3 @@
+# Default ignores
+.idea/
+.DS_STORE
